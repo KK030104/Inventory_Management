@@ -1,0 +1,11 @@
+Kaivalya,1234567890,kaivalyaj0301@gmail.com,5 star,1,2,10,Wed Aug  9 14:36:49 2023
+Rugved,1223333333,afadkdjvla,5 star,1,2,10,Wed Aug  9 14:46:19 2023
+Kaivalya Jadhav, 8149427095, kaivayajadhav03@gmail.com, Product Bought: 5 star, Product ID: 1, 10, Total product cost: 50,Wed Aug  9 15:16:08 2023
+Kaivalya Jadhav, 8149427095, kaivalyajadhav03@gmail.com, Product Bought: 5 star, Product ID: 1, 10, Total product cost: 50,Wed Aug  9 15:16:55 2023
+Rugved , 1222213333, jsdnajsfndajfa!gmail.com, Product Bought: perk, Product ID: 4, 1, Total product cost: 10, Transaction ID: XOI92L6HHPC92P, Wed Aug  9 15:38:07 2023
+Sakshi, 1222214444, jskadhkad@gmail.com, Product Bought: perk, Product ID: 4, 1, Total product cost: 10, Transaction ID: F50B9ABXHSCZS5, Wed Aug  9 15:41:05 2023
+
+virat, 184752168, bubyf@gmail.com, Product Bought: burger, Product ID: 3, 23, Total product cost: 1150, Transaction ID: VIZ93APSOCUX2B, Wed Aug  9 15:47:40 2023
+
+Sakshi, , vghgvfufktf, Product Bought: 5 star, Product ID: 1, 2, Total product cost: 10, Transaction ID: O045RP491NUK0I, Wed Aug  9 16:26:52 2023
+
